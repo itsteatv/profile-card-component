@@ -6,7 +6,7 @@
   --white: white;
   --very-dark-blue: hsl(229, 23%, 23%);
   --grayish-blue: hsl(227, 10%, 46%);
-  --Dark-gray: hsl(0, 0%, 59%)
+  --Dark-gray: hsl(0, 0%, 59%);
 }
 
 * {
@@ -66,17 +66,28 @@ img {
 }
 
 .details {
-    line-height: 1.563rem;
-    margin-top: 4.5rem;
+  line-height: 1.563rem;
+  margin-top: 4.5rem;
 }
 
 .details h1 {
-    font-size: 1.125rem;
-    color: var(--very-dark-blue);
+  font-size: 1.125rem;
+  color: var(--very-dark-blue);
 }
 
 .details span {
-    color: var(--Dark-gray);
-    margin-left: 0.25rem;
-    font-weight: 500;
+  color: var(--Dark-gray);
+  margin-left: 0.25rem;
+  font-weight: 500;
+}
+
+.location {
+  color: var(--grayish-blue);
+  padding: 0.313rem;
+}
+
+hr {
+  margin-top: 1rem;
+  width: 100%;
+  opacity: 0.5;
 }
