@@ -57,3 +57,26 @@ img {
   height: auto;
   border-radius: 1rem 1rem 0 0;
 }
+
+.profile-picture {
+  position: absolute;
+  border: 0.313rem solid var(--white);
+  border-radius: 50%;
+  top: 5rem;
+}
+
+.details {
+    line-height: 1.563rem;
+    margin-top: 4.5rem;
+}
+
+.details h1 {
+    font-size: 1.125rem;
+    color: var(--very-dark-blue);
+}
+
+.details span {
+    color: var(--Dark-gray);
+    margin-left: 0.25rem;
+    font-weight: 500;
+}
