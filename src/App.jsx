@@ -7,10 +7,10 @@ function App() {
     <main>
       <section className="main-container">
         <img className="header-image" src={headerImage} alt="HeaderImage" />
-        <img className="header-image" src={profilePicture} alt="Profile Picture" />
+        <img className="profile-picture" src={profilePicture} alt="Profile Picture" />
         <section className="details">
           <h1>
-            Victor Crest<span> 26</span>
+            Victor Crest <span>26</span>
           </h1>
         </section>
         <p className="location">London</p>
