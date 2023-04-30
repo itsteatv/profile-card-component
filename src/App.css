@@ -91,3 +91,24 @@ hr {
   width: 100%;
   opacity: 0.5;
 }
+
+.info-container {
+  display: flex;
+  gap: 3rem;
+  text-align: center;
+  line-height: 1.25rem;
+  flex-direction: row;
+  padding: 1.75rem;
+}
+
+h2 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: var(--very-dark-blue);
+}
+
+p {
+  color: var(--grayish-blue);
+  letter-spacing: 0.125rem;
+  font-size: 0.625rem;
+}
