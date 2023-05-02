@@ -63,4 +63,4 @@ This kind of practices and challenges can really improve your CSS skills especia
 ## Acknowledgments
 
 If you have any idea to make the code better and more human-readable
-provide your idea on <a href="https://www.frontendmentor.io/solutions/responsive-3-column-card-using-css-flexbox-V-geCUQx5Y">here</a>
+provide your idea on <a href="https://www.frontendmentor.io/solutions/responsive-profile-card-component-jizt_u47ay">here</a>
